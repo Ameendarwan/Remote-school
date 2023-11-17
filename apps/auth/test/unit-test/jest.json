@@ -1,0 +1,39 @@
+{
+	"testTimeout": 1000000,
+	"rootDir": "../../",
+	"moduleDirectories": [
+		"<rootDir>/../auth/src",
+		"<rootDir>/../../libs/common/src",
+		"node_modules"
+	],
+	"testEnvironment": "node",
+	"testMatch": [		"<rootDir>/test/unit-test/teacher/*.spec.ts", 	"<rootDir>/test/unit-test/student/*.spec.ts",
+    		"<rootDir>/test/unit-test/user/*.spec.ts",
+"<rootDir>/test/unit-test/user/*.spec.ts",
+"<rootDir>/test/unit-test/teacher/*.spec.ts"	],
+	"collectCoverage": true,
+	"coverageDirectory": "coverage",
+	"collectCoverageFrom": [
+		"<rootDir>/src/address",
+		"<rootDir>/src/teacher",
+		"<rootDir>/src/student",
+		"<rootDir>/src/users"
+	],
+	"coverageThreshold": {
+		"global": {
+			"branches": 100,
+			"functions": 100,
+			"lines": 100,
+			"statements": 100
+		}
+	},
+	"moduleFileExtensions": ["js", "ts", "json"],
+	"moduleNameMapper": {
+		"apps/(.*)$": "<rootDir>/../../apps/$1",
+		"^@app/common/(.*)$": "<rootDir>/../../libs/common/src/$1"
+	},
+	"transform": {
+		"^.+\\.(t|j)s$": "ts-jest"
+	},
+	"setupFilesAfterEnv": ["./jest-setup.ts"]
+}

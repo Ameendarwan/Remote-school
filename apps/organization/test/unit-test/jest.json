@@ -1,0 +1,31 @@
+{
+	"testTimeout": 10000,
+	"rootDir": "../../",
+	"moduleDirectories": [
+		"<rootDir>/../auth/src",
+		"<rootDir>/../../libs/common/src",
+		"<rootDir>/../../node_modules"
+	],
+	"testEnvironment": "node",
+	"testMatch": ["<rootDir>/test/unit-test/organization/*.spec.ts"],
+	"collectCoverage": true,
+	"coverageDirectory": "coverage",
+	"collectCoverageFrom": ["<rootDir>/src/organization"],
+	"coverageThreshold": {
+		"global": {
+			"branches": 100,
+			"functions": 100,
+			"lines": 100,
+			"statements": 100
+		}
+	},
+	"moduleFileExtensions": ["js", "ts", "json"],
+	"moduleNameMapper": {
+		"apps/(.*)$": "<rootDir>/../../apps/$1",
+		"^@app/common/(.*)$": "<rootDir>/../../libs/common/src/$1"
+	},
+	"transform": {
+		"^.+\\.(t|j)s$": "ts-jest"
+	},
+	"setupFilesAfterEnv": ["./jest-setup.ts"]
+}

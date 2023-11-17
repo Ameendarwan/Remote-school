@@ -1,0 +1,2052 @@
+[
+    {
+        "name": "Al-Fajar School-A",
+        "status": "old",
+        "shift": "",
+        "address": {
+            "village": "",
+            "city": "",
+            "union": "",
+            "tehsil": "",
+            "district": "",
+            "province": "",
+            "address": ""
+        },
+        "hasProjector": "",
+        "hasLaptop": "",
+        "hasTablet": "",
+        "hasInternet": "",
+        "hasElectricity": "",
+        "hasSolor": "",
+        "organization": {
+            "name": "takmil"
+        }
+    },
+    {
+        "name": "Al-Fajar School-B",
+        "status": "old",
+        "startTime": "8:30am",
+        "endTime": "1:30pm",
+        "shift": "Morning",
+        "address": {
+            "village": "Nehar Kot",
+            "city": "Barkhan",
+            "union": "Barkhan",
+            "tehsil": "Barkhan",
+            "district": "Barkhan",
+            "province": "Balochistan",
+            "address": "Al-Fajar Grammer School ,Neharkot , District Barkhan",
+            "latitude": 29.766861111111112,
+            "longitude": 69.46797222222223
+        },
+        "hasProjector": false,
+        "hasLaptop": false,
+        "hasTablet": false,
+        "hasInternet": true,
+        "hasElectricity": false,
+        "hasSolor": false,
+        "organization": {
+            "name": "takmil"
+        }
+    },
+    {
+        "name": "Al-Fajar School-C",
+        "status": "old",
+        "startTime": "8:30am",
+        "endTime": "1:30pm",
+        "shift": "Morning",
+        "address": {
+            "village": "Nehar Kot",
+            "city": "Barkhan",
+            "union": "Barkhan",
+            "tehsil": "Barkhan",
+            "district": "Barkhan",
+            "province": "Balochistan",
+            "address": "Al-Fajar Grammer School ,Neharkot , District Barkhan",
+            "latitude": 29.766861111111112,
+            "longitude": 69.46797222222223
+        },
+        "hasProjector": false,
+        "hasLaptop": false,
+        "hasTablet": false,
+        "hasInternet": true,
+        "hasElectricity": false,
+        "hasSolor": false,
+        "organization": {
+            "name": "takmil"
+        }
+    },
+    {
+        "name": "Al-Fajar School-D",
+        "status": "old",
+        "startTime": "8:30am",
+        "endTime": "1:30pm",
+        "shift": "Morning",
+        "address": {
+            "village": "Nehar Kot",
+            "city": "Barkhan",
+            "union": "Barkhan",
+            "tehsil": "Barkhan",
+            "district": "Barkhan",
+            "province": "Balochistan",
+            "address": "Al-Fajar Grammer School ,Neharkot , District Barkhan",
+            "latitude": 29.766861111111112,
+            "longitude": 69.46797222222223
+        },
+        "hasProjector": false,
+        "hasLaptop": false,
+        "hasTablet": false,
+        "hasInternet": true,
+        "hasElectricity": false,
+        "hasSolor": false,
+        "organization": {
+            "name": "takmil"
+        }
+    },
+    {
+        "name": "Fakhri & Mubarak Memorial TAKMIL School",
+        "status": "New",
+        "startTime": "3:30pm",
+        "endTime": "6:30 pm",
+        "shift": "Evening",
+        "address": {
+            "village": "Mathkola",
+            "city": "Killa Saif Ullah",
+            "union": "Sadar",
+            "tehsil": "Sadar",
+            "district": "Killa Saifullah",
+            "province": "Balochistan",
+            "address": "Jamal Tailors Near Sharjah Wholesale Shop Main Bazar Killa Saifullah",
+            "latitude": 30.96228,
+            "longitude": 68.73175
+        },
+        "hasProjector": false,
+        "hasLaptop": false,
+        "hasTablet": false,
+        "hasInternet": true,
+        "hasElectricity": false,
+        "hasSolor": false,
+        "organization": {
+            "name": "takmil"
+        }
+    },
+    {
+        "name": "JJT- TAKMIL School",
+        "status": "New",
+        "startTime": "7:30am",
+        "endTime": "12:00 Pm",
+        "shift": "Morning",
+        "address": {
+            "village": "Pindora",
+            "city": "Islamabad",
+            "union": "Pindora",
+            "tehsil": "Pindora",
+            "district": "Islamabad",
+            "province": "Federal",
+            "address": "Pindora road near mangal bazar, burma town, Islamabad",
+            "latitude": 33.64622222222222,
+            "longitude": 73.12374999999999
+        },
+        "hasProjector": true,
+        "hasLaptop": false,
+        "hasTablet": false,
+        "hasInternet": false,
+        "hasElectricity": false,
+        "hasSolor": false,
+        "organization": {
+            "name": "takmil"
+        }
+    },
+    {
+        "name": "Khawaja Abdul Majid TAKMIL School",
+        "status": "New",
+        "startTime": "3:00pm",
+        "endTime": "6:00 pm",
+        "shift": "Evening",
+        "address": {
+            "village": "Ballygond",
+            "city": "Diamer",
+            "union": "Samaigala",
+            "tehsil": "Samaigala",
+            "district": "Diamer",
+            "province": "Gilgit Baltistan",
+            "address": "Ballygond , District Diamer GB"
+        },
+        "hasProjector": false,
+        "hasLaptop": false,
+        "hasTablet": false,
+        "hasInternet": true,
+        "hasElectricity": false,
+        "hasSolor": false,
+        "organization": {
+            "name": "takmil"
+        }
+    },
+    {
+        "name": "Khawaja Mukhtar Ahmad TAKMIL School",
+        "status": "New",
+        "startTime": "8:00 am",
+        "endTime": "11:00 am",
+        "shift": "Morning",
+        "address": {
+            "village": "Kacha Kakar",
+            "city": "Rajanpur",
+            "union": "Rojhan",
+            "tehsil": "Rojhan",
+            "district": "Rajanpur",
+            "province": "Punjab",
+            "address": "Post Office  Rojhan, Chack Mat Number -2 ,District Rajanpur",
+            "latitude": 28.424979,
+            "longitude": 69.80627
+        },
+        "hasProjector": true,
+        "hasLaptop": false,
+        "hasTablet": false,
+        "hasInternet": false,
+        "hasElectricity": false,
+        "hasSolor": false,
+        "organization": {
+            "name": "takmil"
+        }
+    },
+    {
+        "name": "Leadership School (Female)",
+        "status": "old",
+        "startTime": "8:00am",
+        "endTime": "12:00pm",
+        "shift": "Morning",
+        "address": {
+            "village": "Baghao",
+            "city": "Barkhan",
+            "union": "Barkhan",
+            "tehsil": "Barkhan",
+            "district": "Barkhan",
+            "province": "Balochistan",
+            "address": "Dr Kabul khan House , District Barkhan",
+            "latitude": 30.103972222222225,
+            "longitude": 69.65105555555556
+        },
+        "hasProjector": true,
+        "hasLaptop": false,
+        "hasTablet": false,
+        "hasInternet": true,
+        "hasElectricity": false,
+        "hasSolor": false,
+        "organization": {
+            "name": "takmil"
+        }
+    },
+    {
+        "name": "Leadership School (Male)-A",
+        "status": "old",
+        "startTime": "4:00pm",
+        "endTime": "7:30pm",
+        "shift": "Evening",
+        "address": {
+            "village": "Baghao",
+            "city": "Barkhan",
+            "union": "Barkhan",
+            "tehsil": "Barkhan",
+            "district": "Barkhan",
+            "province": "Balochistan",
+            "address": "Dr Kabul khan House , District Barkhan",
+            "latitude": 30.12361111111111,
+            "longitude": 69.63983333333334
+        },
+        "hasProjector": false,
+        "hasLaptop": false,
+        "hasTablet": false,
+        "hasInternet": true,
+        "hasElectricity": false,
+        "hasSolor": false,
+        "organization": {
+            "name": "takmil"
+        }
+    },
+    {
+        "name": "Leadership School (Male)-B",
+        "status": "old",
+        "startTime": "4:00pm",
+        "endTime": "7:30pm",
+        "shift": "Evening",
+        "address": {
+            "village": "Baghao",
+            "city": "Barkhan",
+            "union": "Barkhan",
+            "tehsil": "Barkhan",
+            "district": "Barkhan",
+            "province": "Balochistan",
+            "address": "Dr Kabul khan House , District Barkhan",
+            "latitude": 30.12361111111111,
+            "longitude": 69.63983333333334
+        },
+        "hasProjector": false,
+        "hasLaptop": false,
+        "hasTablet": false,
+        "hasInternet": true,
+        "hasElectricity": false,
+        "hasSolor": false,
+        "organization": {
+            "name": "takmil"
+        }
+    },
+    {
+        "name": "Leadership School (Male)-C",
+        "status": "old",
+        "startTime": "4:00pm",
+        "endTime": "7:30pm",
+        "shift": "Evening",
+        "address": {
+            "village": "Baghao",
+            "city": "Barkhan",
+            "union": "Barkhan",
+            "tehsil": "Barkhan",
+            "district": "Barkhan",
+            "province": "Balochistan",
+            "address": "Dr Kabul khan House , District Barkhan",
+            "latitude": 30.12361111111111,
+            "longitude": 69.63983333333334
+        },
+        "hasProjector": false,
+        "hasLaptop": false,
+        "hasTablet": false,
+        "hasInternet": true,
+        "hasElectricity": false,
+        "hasSolor": false,
+        "organization": {
+            "name": "takmil"
+        }
+    },
+    {
+        "name": "Mehar Shams Foundation & Maqsood Welfare Trust TAKMIL School",
+        "status": "New",
+        "startTime": "4:00pm",
+        "endTime": "7:00 pm",
+        "shift": "Evening",
+        "address": {
+            "village": "Makrani Mohallah",
+            "city": "Hyderabad",
+            "union": "Hyderabad",
+            "tehsil": "Hyderabad",
+            "district": "Hyderabad",
+            "province": "Sindh",
+            "address": "Gul Shah Makrani  Mohallah Hyderabad",
+            "latitude": 25.395666666666667,
+            "longitude": 68.37819444444443
+        },
+        "hasProjector": false,
+        "hasLaptop": false,
+        "hasTablet": false,
+        "hasInternet": true,
+        "hasElectricity": false,
+        "hasSolor": false,
+        "organization": {
+            "name": "takmil"
+        }
+    },
+    {
+        "name": "Muhammad Aslam & Nasim Akhtar TAKMIL School",
+        "status": "New",
+        "startTime": "8:00am",
+        "endTime": "1:00 pm",
+        "shift": "Morning",
+        "address": {
+            "village": "Basti Wali Muhammad",
+            "city": "Rajanpur",
+            "union": "Shawali",
+            "tehsil": "Shawali",
+            "district": "Rajanpur",
+            "province": "Punjab",
+            "address": "Jag Churghan Soon MIyani Basti, Wali Muhammad Rojhan, Rajanpur",
+            "latitude": 28.4237125,
+            "longitude": 69.9116406
+        },
+        "hasProjector": false,
+        "hasLaptop": false,
+        "hasTablet": false,
+        "hasInternet": true,
+        "hasElectricity": false,
+        "hasSolor": false,
+        "organization": {
+            "name": "takmil"
+        }
+    },
+    {
+        "name": "Shaheed Abdullah Ghani Awan School",
+        "status": "New",
+        "startTime": "8: 30 am",
+        "endTime": "12:00 am",
+        "shift": "Morning",
+        "address": {
+            "village": "Ghishar",
+            "city": "Diamer",
+            "union": "Khanbury",
+            "tehsil": "Khanbury",
+            "district": "Diamer",
+            "province": "Gilgit Baltistan",
+            "address": "Village Khanberi , Ghuchaar Daimer",
+            "latitude": 35.706500000000005,
+            "longitude": 73.64333333333335
+        },
+        "hasProjector": false,
+        "hasLaptop": false,
+        "hasTablet": false,
+        "hasInternet": false,
+        "hasElectricity": false,
+        "hasSolor": false,
+        "organization": {
+            "name": "takmil"
+        }
+    },
+    {
+        "name": "Shaheed Adil Shahzad School",
+        "status": "New",
+        "startTime": "10:00 am",
+        "endTime": "1:30 pm",
+        "shift": "Morning",
+        "address": {
+            "village": "Toheed Abad",
+            "city": "Muzaffargarh",
+            "union": "Damar Wala Shumali",
+            "tehsil": "Damar Wala Shumali",
+            "district": "Muzaffargarh",
+            "province": "Punjab",
+            "address": "Basti Toheed Abad, Post Office  Dammar Wala Shumali, Toheed Abad",
+            "latitude": 34.101667,
+            "longitude": 73.518333
+        },
+        "hasProjector": true,
+        "hasLaptop": false,
+        "hasTablet": false,
+        "hasInternet": true,
+        "hasElectricity": false,
+        "hasSolor": false,
+        "organization": {
+            "name": "takmil"
+        }
+    },
+    {
+        "name": "Shaheed Adnan Hussain School-A",
+        "status": "old",
+        "startTime": "8:30am",
+        "endTime": "1:00pm",
+        "shift": "Morning",
+        "address": {
+            "village": "Tani momund",
+            "city": "Bajaur",
+            "union": "Bajaur Agency",
+            "tehsil": "Bajaur Agency",
+            "district": "Bajaur Agency",
+            "province": "KPK",
+            "address": "village Tani momund ,Post Office  Iniyat Kili Bajour",
+            "latitude": 34.77027777777778,
+            "longitude": 71.43952777777778
+        },
+        "hasProjector": true,
+        "hasLaptop": true,
+        "hasTablet": true,
+        "hasInternet": true,
+        "hasElectricity": false,
+        "hasSolor": false,
+        "organization": {
+            "name": "takmil"
+        }
+    },
+    {
+        "name": "Shaheed Adnan Hussain School-B",
+        "status": "old",
+        "startTime": "8:30am",
+        "endTime": "1:00pm",
+        "shift": "Morning",
+        "address": {
+            "village": "Tani momund",
+            "city": "Bajaur",
+            "union": "Bajaur Agency",
+            "tehsil": "Bajaur Agency",
+            "district": "Bajaur Agency",
+            "province": "KPK",
+            "address": "village Tani momund ,Post Office  Iniyat Kili Bajour",
+            "latitude": 34.7865,
+            "longitude": 71.52488888888888
+        },
+        "hasProjector": true,
+        "hasLaptop": true,
+        "hasTablet": true,
+        "hasInternet": true,
+        "hasElectricity": false,
+        "hasSolor": false,
+        "organization": {
+            "name": "takmil"
+        }
+    },
+    {
+        "name": "Shaheed Aimal Khan School",
+        "status": "old",
+        "startTime": "4:00pm",
+        "endTime": "7:00pm",
+        "shift": "Evening",
+        "address": {
+            "village": "Killi Geo",
+            "city": "Quetta",
+            "union": "Quetta",
+            "tehsil": "Quetta",
+            "district": "Quetta",
+            "province": "Balochistan",
+            "address": "Shaheen Cabin House , Saryab road Quetta",
+            "latitude": 30.169500000000003,
+            "longitude": 66.97519444444444
+        },
+        "hasProjector": false,
+        "hasLaptop": true,
+        "hasTablet": true,
+        "hasInternet": true,
+        "hasElectricity": true,
+        "hasSolor": false,
+        "organization": {
+            "name": "takmil"
+        }
+    },
+    {
+        "name": "Shaheed Al-Asad School-A",
+        "status": "old",
+        "startTime": "8:30am",
+        "endTime": "12:30am",
+        "shift": "Morning",
+        "address": {
+            "village": "Abdul Karim Khashkheli",
+            "city": "Mirpur khas",
+            "union": "Makhan Samon",
+            "tehsil": "Makhan Samon",
+            "district": "Mirpur khas",
+            "province": "Sindh",
+            "address": "Village  Abdul karim  Khaskheli Near Makhan Samon Taluka Shuja Abad Dis Mir pur khas Sindh",
+            "latitude": 25.395083333333332,
+            "longitude": 69.00355555555555
+        },
+        "hasProjector": true,
+        "hasLaptop": true,
+        "hasTablet": true,
+        "hasInternet": true,
+        "hasElectricity": true,
+        "hasSolor": true,
+        "organization": {
+            "name": "takmil"
+        }
+    },
+    {
+        "name": "Shaheed Al-Asad School-B",
+        "status": "old",
+        "startTime": "8:30am",
+        "endTime": "12:30am",
+        "shift": "Morning",
+        "address": {
+            "village": "Abdul Karim Khashkheli",
+            "city": "Mirpur khas",
+            "union": "Makhan Samon",
+            "tehsil": "Makhan Samon",
+            "district": "Mirpur khas",
+            "province": "Sindh",
+            "address": "Village  Abdul karim  Khaskheli Near Makhan Samon Taluka Shuja Abad Dis Mir pur khas Sindh",
+            "latitude": 25.395083333333332,
+            "longitude": 69.00355555555555
+        },
+        "hasProjector": true,
+        "hasLaptop": true,
+        "hasTablet": true,
+        "hasInternet": true,
+        "hasElectricity": true,
+        "hasSolor": true,
+        "organization": {
+            "name": "takmil"
+        }
+    },
+    {
+        "name": "Shaheed Ammar Iqbal School",
+        "status": "New",
+        "startTime": "8:15am",
+        "endTime": "12:30 pm",
+        "shift": "Morning",
+        "address": {
+            "village": "Puchguch",
+            "city": "Diamer",
+            "union": "Darel",
+            "tehsil": "Darel",
+            "district": "Diamer",
+            "province": "Gilgit Baltistan",
+            "address": "Village Puchguch , Tehsil Darel , District Diamer",
+            "latitude": 35.60792,
+            "longitude": 73.582386
+        },
+        "hasProjector": false,
+        "hasLaptop": false,
+        "hasTablet": false,
+        "hasInternet": true,
+        "hasElectricity": false,
+        "hasSolor": false,
+        "organization": {
+            "name": "takmil"
+        }
+    },
+    {
+        "name": "Shaheed Arham Khan School",
+        "status": "old",
+        "startTime": "9:30am",
+        "endTime": "12:30am",
+        "shift": "Morning",
+        "address": {
+            "village": "More Khunda",
+            "city": "More Khunda",
+            "union": "Nan Kana Sahib",
+            "tehsil": "Nan Kana Sahib",
+            "district": "Nan kana Sahib",
+            "province": "Punjab",
+            "address": "Mohla Nazirabad Near Petrol pupm, khunda More, Nan kana sahib",
+            "latitude": 31.321833333333334,
+            "longitude": 73.78399999999999
+        },
+        "hasProjector": true,
+        "hasLaptop": false,
+        "hasTablet": false,
+        "hasInternet": true,
+        "hasElectricity": false,
+        "hasSolor": false,
+        "organization": {
+            "name": "takmil"
+        }
+    },
+    {
+        "name": "Shaheed Awais Ahmed School",
+        "status": "New",
+        "startTime": "9: 00am",
+        "endTime": "12:30 am",
+        "shift": "Morning",
+        "address": {
+            "village": "Manikal",
+            "city": "Diamer",
+            "union": "Darel",
+            "tehsil": "Darel",
+            "district": "Diamer",
+            "province": "Gilgit Baltistan",
+            "address": "Villlage Manikal Darel, Post Office Gumari ,Sabu Coat Thesil Darel",
+            "latitude": 35.705203,
+            "longitude": 73.636981
+        },
+        "hasProjector": false,
+        "hasLaptop": false,
+        "hasTablet": false,
+        "hasInternet": true,
+        "hasElectricity": false,
+        "hasSolor": false,
+        "organization": {
+            "name": "takmil"
+        }
+    },
+    {
+        "name": "Shaheed Azan Ali School",
+        "status": "old",
+        "startTime": "3:00pm",
+        "endTime": "6:30pm",
+        "shift": "Evening",
+        "address": {
+            "village": "Laranwalla",
+            "city": "Jhang",
+            "union": "Jhang",
+            "tehsil": "Jhang",
+            "district": "Jhang",
+            "province": "Punjab",
+            "address": "Shaheed Azan School laran walla, M Ijaz khan chah Laranwala chack Rasoolpur P/o Mandi shahjewana jhang",
+            "latitude": 32.68119444444444,
+            "longitude": 74.33369444444443
+        },
+        "hasProjector": false,
+        "hasLaptop": false,
+        "hasTablet": false,
+        "hasInternet": true,
+        "hasElectricity": true,
+        "hasSolor": false,
+        "organization": {
+            "name": "takmil"
+        }
+    },
+    {
+        "name": "Shaheed Baqir Ali Shah School",
+        "status": "old",
+        "startTime": "3:00pm",
+        "endTime": "6:00pm",
+        "shift": "Evening",
+        "address": {
+            "village": "KhokranWala",
+            "city": "KhokranWala",
+            "union": "Jhang",
+            "tehsil": "Jhang",
+            "district": "Jhang",
+            "province": "Punjab",
+            "address": "Chak Alyana p/o kot khan via Chund Bharwana jhung Punjab",
+            "latitude": 31.46361111111111,
+            "longitude": 72.24111111111111
+        },
+        "hasProjector": false,
+        "hasLaptop": false,
+        "hasTablet": false,
+        "hasInternet": true,
+        "hasElectricity": true,
+        "hasSolor": false,
+        "organization": {
+            "name": "takmil"
+        }
+    },
+    {
+        "name": "Shaheed Bashir Ali TAKMIL School",
+        "status": "New",
+        "startTime": "10:00 am",
+        "endTime": "1:30 pm",
+        "shift": "Morning",
+        "address": {
+            "village": "Toheed Abad",
+            "city": "Muzaffargarh",
+            "union": "Damar Wala Shumali",
+            "tehsil": "Damar Wala Shumali",
+            "district": "Muzaffargarh",
+            "province": "Punjab",
+            "address": "Basti Toheed Abad, Post Office  Dammar Wala Shumali, Toheed Abad",
+            "latitude": 34.101667,
+            "longitude": 73.518333
+        },
+        "hasProjector": true,
+        "hasLaptop": false,
+        "hasTablet": false,
+        "hasInternet": true,
+        "hasElectricity": false,
+        "hasSolor": false,
+        "organization": {
+            "name": "takmil"
+        }
+    },
+    {
+        "name": "Shaheed Bilal Arshad School-A",
+        "status": "old",
+        "startTime": "11:00am",
+        "endTime": "2:30pm",
+        "shift": "Afternoon",
+        "address": {
+            "village": "Cheh Kunde wala",
+            "city": "Muzaffargarh",
+            "union": "Muzaffargarh",
+            "tehsil": "Muzaffargarh",
+            "district": "Muzaffargarh",
+            "province": "Punjab",
+            "address": "Kande wala Manik, Mazafargardh",
+            "latitude": 29.71972222222222,
+            "longitude": 70.91236111111111
+        },
+        "hasProjector": true,
+        "hasLaptop": false,
+        "hasTablet": false,
+        "hasInternet": true,
+        "hasElectricity": false,
+        "hasSolor": false,
+        "organization": {
+            "name": "takmil"
+        }
+    },
+    {
+        "name": "Shaheed Bilal Arshad School-B",
+        "status": "old",
+        "startTime": "11:00am",
+        "endTime": "2:30pm",
+        "shift": "Afternoon",
+        "address": {
+            "village": "Cheh Kunde wala",
+            "city": "Muzaffargarh",
+            "union": "Muzaffargarh",
+            "tehsil": "Muzaffargarh",
+            "district": "Muzaffargarh",
+            "province": "Punjab",
+            "address": "Kande wala Manik, Mazafargardh"
+        },
+        "hasProjector": true,
+        "hasLaptop": false,
+        "hasTablet": false,
+        "hasInternet": true,
+        "hasElectricity": false,
+        "hasSolor": false,
+        "organization": {
+            "name": "takmil"
+        }
+    },
+    {
+        "name": "Shaheed Daud School",
+        "status": "New",
+        "startTime": "8: 30 am",
+        "endTime": "12:00 am",
+        "shift": "Morning",
+        "address": {
+            "village": "Ghishar",
+            "city": "Diamer",
+            "union": "Khanbury",
+            "tehsil": "Khanbury",
+            "district": "Diamer",
+            "province": "Gilgit Baltistan",
+            "address": "Village Khanberi , Ghuchaar Daimer",
+            "latitude": 35.706500000000005,
+            "longitude": 73.64333333333335
+        },
+        "hasProjector": false,
+        "hasLaptop": false,
+        "hasTablet": false,
+        "hasInternet": false,
+        "hasElectricity": false,
+        "hasSolor": false,
+        "organization": {
+            "name": "takmil"
+        }
+    },
+    {
+        "name": "Shaheed Fahad Khan TAKMIL School",
+        "status": "New",
+        "startTime": "2:00 pm",
+        "endTime": "5:00 pm",
+        "shift": "Afternoon",
+        "address": {
+            "village": "Khushi Muhammad Arain",
+            "city": "Mirpur khas",
+            "union": "Tando Jan Muhammad",
+            "tehsil": "Tando Jan Muhammad",
+            "district": "Mirpur khas",
+            "province": "Sindh",
+            "address": "Village Khushi Muhammad Arain P/O Tando Jan Muhmand Khushi Arain Taluka Gigri"
+        },
+        "hasProjector": false,
+        "hasLaptop": false,
+        "hasTablet": false,
+        "hasInternet": true,
+        "hasElectricity": false,
+        "hasSolor": false,
+        "organization": {
+            "name": "takmil"
+        }
+    },
+    {
+        "name": "Shaheed Gulsher School",
+        "status": "old",
+        "startTime": "2:30pm",
+        "endTime": "5:30pm",
+        "shift": "Afternoon",
+        "address": {
+            "village": "Baghat Mehraj",
+            "city": "Mirpur khas",
+            "union": "Goth Taju Khashkheli",
+            "tehsil": "Goth Taju Khashkheli",
+            "district": "Mirpur khas",
+            "province": "Sindh",
+            "address": "Village Baghat Mehraj, UC Taju , Kashkheli ,Mirpurkhas",
+            "latitude": 25.413166666666665,
+            "longitude": 68.98380555555556
+        },
+        "hasProjector": true,
+        "hasLaptop": false,
+        "hasTablet": false,
+        "hasInternet": true,
+        "hasElectricity": false,
+        "hasSolor": false,
+        "organization": {
+            "name": "takmil"
+        }
+    },
+    {
+        "name": "Shaheed Hamayun Iqbal School- A",
+        "status": "old",
+        "startTime": "3:00pm",
+        "endTime": "6:00pm",
+        "shift": "Evening",
+        "address": {
+            "village": "Khewa",
+            "city": "Khewa",
+            "union": "Jhang",
+            "tehsil": "Jhang",
+            "district": "Jhang",
+            "province": "Punjab",
+            "address": "Chinout Road Adda15, Milechah Baqir walla Sultanpur, jhung punjab",
+            "latitude": 31.447,
+            "longitude": 72.42605555555556
+        },
+        "hasProjector": true,
+        "hasLaptop": false,
+        "hasTablet": false,
+        "hasInternet": true,
+        "hasElectricity": false,
+        "hasSolor": false,
+        "organization": {
+            "name": "takmil"
+        }
+    },
+    {
+        "name": "Shaheed Hamayun Iqbal School- B",
+        "status": "old",
+        "startTime": "3:00pm",
+        "endTime": "6:00pm",
+        "shift": "Evening",
+        "address": {
+            "village": "Khewa",
+            "city": "Khewa",
+            "union": "Jhang",
+            "tehsil": "Jhang",
+            "district": "Jhang",
+            "province": "Punjab",
+            "address": "Chinout Road Adda15, Milechah Baqir walla Sultanpur, jhung punjab",
+            "latitude": 31.447,
+            "longitude": 72.42605555555556
+        },
+        "hasProjector": true,
+        "hasLaptop": false,
+        "hasTablet": false,
+        "hasInternet": true,
+        "hasElectricity": false,
+        "hasSolor": false,
+        "organization": {
+            "name": "takmil"
+        }
+    },
+    {
+        "name": "Shaheed Hamid Ali -A",
+        "status": "old",
+        "shift": "",
+        "address": {
+            "village": "Khewa",
+            "city": "Khewa",
+            "union": "Jhang",
+            "tehsil": "Jhang",
+            "district": "Jhang",
+            "province": "Punjab"
+        },
+        "organization": {
+            "name": "takmil"
+        }
+    },
+    {
+        "name": "Shaheed Hamid Ali -B",
+        "status": "old",
+        "startTime": "11:00am",
+        "endTime": "2:00pm",
+        "shift": "Afternoon",
+        "address": {
+            "village": "Awais nagar",
+            "city": "Awais nagar",
+            "union": "Jhang",
+            "tehsil": "Jhang",
+            "district": "Jhang",
+            "province": "Punjab",
+            "address": "Post office shabirabad mouza dhunowala abdi awais nager, tehsil and district Jhang chinot",
+            "latitude": 31.43616666666667,
+            "longitude": 72.36397222222222
+        },
+        "hasProjector": true,
+        "hasLaptop": false,
+        "hasTablet": false,
+        "hasInternet": true,
+        "hasElectricity": false,
+        "hasSolor": false,
+        "organization": {
+            "name": "takmil"
+        }
+    },
+    {
+        "name": "Shaheed Hammad Malik School",
+        "status": "New",
+        "startTime": "2:30pm",
+        "endTime": "5:30 pm",
+        "shift": "Afternoon",
+        "address": {
+            "village": "Aka Khel Madah Khel Malanga",
+            "city": "Bara",
+            "union": "Bara",
+            "tehsil": "Bara",
+            "district": "Khyber Agency",
+            "province": "KPK",
+            "address": "Aka Khel Madah Khel Malanga, Post Office Meera, Tehsil & District Khyber Agency",
+            "latitude": 33.892353,
+            "longitude": 71.444682
+        },
+        "hasProjector": false,
+        "hasLaptop": false,
+        "hasTablet": false,
+        "hasInternet": true,
+        "hasElectricity": false,
+        "hasSolor": false,
+        "organization": {
+            "name": "takmil"
+        }
+    },
+    {
+        "name": "Shaheed Hamza School",
+        "status": "old",
+        "startTime": "8:45am",
+        "endTime": "11:30am",
+        "shift": "Morning",
+        "address": {
+            "village": "Balina Kattan",
+            "city": "khuzdar",
+            "union": "Khuzdar",
+            "tehsil": "Khuzdar",
+            "district": "Khuzdar",
+            "province": "Balochistan",
+            "address": "Shaheed Humza school khuzdar ,UC Balina Kattan ,Tehsil Khuzdar Street Fazal Abad Balina Kattan Khuzdar",
+            "latitude": 27.828916666666668,
+            "longitude": 66.62355555555555
+        },
+        "hasProjector": true,
+        "hasLaptop": true,
+        "hasTablet": true,
+        "hasInternet": true,
+        "hasElectricity": true,
+        "hasSolor": true,
+        "organization": {
+            "name": "takmil"
+        }
+    },
+    {
+        "name": "Shaheed Haris Nawaz School",
+        "status": "old",
+        "startTime": "4:30pm",
+        "endTime": "7:20 pm",
+        "shift": "Evening",
+        "address": {
+            "village": "Peshawer",
+            "city": "Peshawer",
+            "union": "Peshawar",
+            "tehsil": "Peshawar",
+            "district": "Peshawer",
+            "province": "KPK",
+            "address": "Muslim Model School Wazir Colony Ring Road, peshawar",
+            "latitude": 34.039833333333334,
+            "longitude": 71.5958611111111
+        },
+        "hasProjector": true,
+        "hasLaptop": true,
+        "hasTablet": true,
+        "hasInternet": true,
+        "hasElectricity": true,
+        "hasSolor": false,
+        "organization": {
+            "name": "takmil"
+        }
+    },
+    {
+        "name": "Shaheed Hasnain Sharif School",
+        "status": "New",
+        "startTime": "2:15pm",
+        "endTime": "5:30 pm",
+        "shift": "Afternoon",
+        "address": {
+            "village": "Damadola",
+            "city": "Bajaur Agency",
+            "union": "Mahmund",
+            "tehsil": "Mahmund",
+            "district": "Bajaur Agency",
+            "province": "KPK",
+            "address": "Damadola 1 post Office Inayat kilay tehsil mahmund district bajaur",
+            "latitude": 34.787622,
+            "longitude": 71.461131
+        },
+        "hasProjector": true,
+        "hasLaptop": false,
+        "hasTablet": false,
+        "hasInternet": true,
+        "hasElectricity": false,
+        "hasSolor": false,
+        "organization": {
+            "name": "takmil"
+        }
+    },
+    {
+        "name": "Shaheed Imran Ali School",
+        "status": "New",
+        "startTime": "2:00 pm",
+        "endTime": "5:00 pm",
+        "shift": "Afternoon",
+        "address": {
+            "village": "Ghummary",
+            "city": "Darel",
+            "union": "Ghummary",
+            "tehsil": "Ghummary",
+            "district": "Diamer",
+            "province": "Gilgit Baltistan",
+            "address": "Village Jadury ,Post office Ghummary,Tehsil darel",
+            "latitude": 35.780252,
+            "longitude": 73.677096
+        },
+        "hasProjector": false,
+        "hasLaptop": false,
+        "hasTablet": false,
+        "hasInternet": false,
+        "hasElectricity": false,
+        "hasSolor": false,
+        "organization": {
+            "name": "takmil"
+        }
+    },
+    {
+        "name": "Shaheed Khaula Bibi School-A",
+        "status": "old",
+        "startTime": "8:00am",
+        "endTime": "12:30pm",
+        "shift": "Morning",
+        "address": {
+            "village": "Khanewal",
+            "city": "Khanewal",
+            "union": "Chak 171/10 R",
+            "tehsil": "Chak 171/10 R",
+            "district": "Khanewal",
+            "province": "Punjab",
+            "address": "Jinah colony Adda Merashah 166/10,R p/o box 171/10,R Dis Khanawal",
+            "latitude": 30.232722222222222,
+            "longitude": 71.88722222222223
+        },
+        "hasProjector": true,
+        "hasLaptop": false,
+        "hasTablet": false,
+        "hasInternet": true,
+        "hasElectricity": true,
+        "hasSolor": false,
+        "organization": {
+            "name": "takmil"
+        }
+    },
+    {
+        "name": "Shaheed Khaula Bibi School-B",
+        "status": "old",
+        "startTime": "8:00am",
+        "endTime": "12:30pm",
+        "shift": "Morning",
+        "address": {
+            "village": "Khanewal",
+            "city": "Khanewal",
+            "union": "Chak 171/10 R",
+            "tehsil": "Chak 171/10 R",
+            "district": "Khanewal",
+            "province": "Punjab",
+            "address": "Jinah colony Adda Merashah 166/10,R p/o box 171/10,R Dis Khanawal",
+            "latitude": 30.232722222222222,
+            "longitude": 71.88722222222223
+        },
+        "hasProjector": true,
+        "hasLaptop": false,
+        "hasTablet": false,
+        "hasInternet": true,
+        "hasElectricity": true,
+        "hasSolor": false,
+        "organization": {
+            "name": "takmil"
+        }
+    },
+    {
+        "name": "Shaheed Khushnood Zeb School",
+        "status": "New",
+        "startTime": "4 :00pm",
+        "endTime": "7:00 pm",
+        "shift": "Evening",
+        "address": {
+            "village": "Ahmedwaal",
+            "city": "Naushki",
+            "union": "Naushki",
+            "tehsil": "Naushki",
+            "district": "Naushki",
+            "province": "Balochistan",
+            "address": "Killi Muhammad Azam, Ahmedwal ,Naushki",
+            "latitude": 29.454639,
+            "longitude": 65.97629
+        },
+        "hasProjector": false,
+        "hasLaptop": false,
+        "hasTablet": false,
+        "hasInternet": true,
+        "hasElectricity": false,
+        "hasSolor": false,
+        "organization": {
+            "name": "takmil"
+        }
+    },
+    {
+        "name": "Shaheed Mahar Rizwan TAKMIL School",
+        "status": "New",
+        "startTime": "2:00 pm",
+        "endTime": "5:00  pm",
+        "shift": "Afternoon",
+        "address": {
+            "village": "Darel",
+            "city": "Diamer",
+            "union": "Darel",
+            "tehsil": "Darel",
+            "district": "Diamer",
+            "province": "Gilgit Baltistan",
+            "address": "Villlage Manikal Darel, Post Office Gumari ,Sabu Coat Tehsil Darel",
+            "latitude": 35.688832,
+            "longitude": 73.624756
+        },
+        "hasProjector": false,
+        "hasLaptop": false,
+        "hasTablet": false,
+        "hasInternet": false,
+        "hasElectricity": false,
+        "hasSolor": false,
+        "organization": {
+            "name": "takmil"
+        }
+    },
+    {
+        "name": "Shaheed Mobeen Shah TAKMIL School",
+        "status": "New",
+        "startTime": "2:30pm",
+        "endTime": "5:30 pm",
+        "shift": "Afternoon",
+        "address": {
+            "village": "Aka Khel Madah Khel Malanga",
+            "city": "Bara",
+            "union": "Bara",
+            "tehsil": "Bara",
+            "district": "Khyber Agency",
+            "province": "KPK",
+            "address": "Aka Khel Madah Khel Malanga, Post Office Meera, Tehsil & District Khyber Agency",
+            "latitude": 33.892353,
+            "longitude": 71.444682
+        },
+        "hasProjector": false,
+        "hasLaptop": false,
+        "hasTablet": false,
+        "hasInternet": true,
+        "hasElectricity": false,
+        "hasSolor": false,
+        "organization": {
+            "name": "takmil"
+        }
+    },
+    {
+        "name": "Shaheed Muhammad Furqan Haider School",
+        "status": "New",
+        "startTime": "9:00am",
+        "endTime": "12:30 pm",
+        "shift": "Morning",
+        "address": {
+            "village": "Jutal",
+            "city": "Gilgit",
+            "union": "Gilgit",
+            "tehsil": "Gilgit",
+            "district": "Gilgit",
+            "province": "Gilgit Baltistan",
+            "address": "Syadabad Khas ,Jutal, Gilgit",
+            "latitude": 36.034346,
+            "longitude": 74.293336
+        },
+        "hasProjector": false,
+        "hasLaptop": false,
+        "hasTablet": false,
+        "hasInternet": true,
+        "hasElectricity": false,
+        "hasSolor": false,
+        "organization": {
+            "name": "takmil"
+        }
+    },
+    {
+        "name": "Shaheed Muhammad Ghasaan Khan School",
+        "status": "New",
+        "startTime": "8:00 am",
+        "endTime": "11:00 am",
+        "shift": "Morning",
+        "address": {
+            "village": "Gohar Abad",
+            "city": "Diamer",
+            "union": "Chillas",
+            "tehsil": "Chillas",
+            "district": "Diamer",
+            "province": "Gilgit Baltistan",
+            "address": "Goharabad Dakhan ,Tehsil Chillas, District Diamer",
+            "latitude": 35.532638,
+            "longitude": 74.505555
+        },
+        "hasProjector": false,
+        "hasLaptop": false,
+        "hasTablet": false,
+        "hasInternet": false,
+        "hasElectricity": false,
+        "hasSolor": false,
+        "organization": {
+            "name": "takmil"
+        }
+    },
+    {
+        "name": "Shaheed Muhammad Salman School",
+        "status": "New",
+        "startTime": "8:00 am",
+        "endTime": "11:00 am",
+        "shift": "Morning",
+        "address": {
+            "village": "Shat khel Mandai",
+            "city": "Peshawar",
+            "union": "Shamshato Mandai",
+            "tehsil": "Shamshato Mandai",
+            "district": "Peshawer",
+            "province": "KPK",
+            "address": "Shat Khel ,Post Office, Shamshtoo Mandi, Tehsil Zila Qabaili  Elaqa, Muhala Akka",
+            "latitude": 33.799003,
+            "longitude": 71.737775
+        },
+        "hasProjector": false,
+        "hasLaptop": false,
+        "hasTablet": false,
+        "hasInternet": false,
+        "hasElectricity": false,
+        "hasSolor": false,
+        "organization": {
+            "name": "takmil"
+        }
+    },
+    {
+        "name": "Roshni TAKMIL School",
+        "status": "New",
+        "startTime": "8:00am",
+        "endTime": "11:00 am",
+        "shift": "Morning",
+        "address": {
+            "village": "Qazi Rasool Bux",
+            "city": "Sangharh",
+            "union": "Khipro",
+            "tehsil": "Khipro",
+            "district": "Sangharh",
+            "province": "Sindh",
+            "address": "Village Qazi Raool Bux ,District Sanghar",
+            "latitude": 25.823055555555555,
+            "longitude": 69.3743611111111
+        },
+        "hasProjector": false,
+        "hasLaptop": false,
+        "hasTablet": false,
+        "hasInternet": false,
+        "hasElectricity": false,
+        "hasSolor": false,
+        "organization": {
+            "name": "takmil"
+        }
+    },
+    {
+        "name": "Shaheed Nangyal Tariq School",
+        "status": "New",
+        "startTime": "2:00 pm",
+        "endTime": "5:00 pm",
+        "shift": "Afternoon",
+        "address": {
+            "village": "Khushi Muhammad Arain",
+            "city": "Mirpur khas",
+            "union": "Tando Jan Muhammad",
+            "tehsil": "Tando Jan Muhammad",
+            "district": "Mirpur khas",
+            "province": "Sindh",
+            "address": "Village Khushi Muhammad Arain P/O Tando Jan Muhmand Khushi Arain Taluka Gigri"
+        },
+        "hasProjector": false,
+        "hasLaptop": false,
+        "hasTablet": false,
+        "hasInternet": true,
+        "hasElectricity": false,
+        "hasSolor": false,
+        "organization": {
+            "name": "takmil"
+        }
+    },
+    {
+        "name": "Shaheed Rafique TAKMIL School",
+        "status": "New",
+        "startTime": "9: 00am",
+        "endTime": "12:30 am",
+        "shift": "Morning",
+        "address": {
+            "village": "Manikal",
+            "city": "Diamer",
+            "union": "Darel",
+            "tehsil": "Darel",
+            "district": "Diamer",
+            "province": "Gilgit Baltistan",
+            "address": "Villlage Manikal Darel, Post Office Gumari ,Sabu Coat Thesil Darel",
+            "latitude": 35.705203,
+            "longitude": 73.636981
+        },
+        "hasProjector": false,
+        "hasLaptop": false,
+        "hasTablet": false,
+        "hasInternet": true,
+        "hasElectricity": false,
+        "hasSolor": false,
+        "organization": {
+            "name": "takmil"
+        }
+    },
+    {
+        "name": "Shaheed Rizwan Sareer School",
+        "status": "New",
+        "startTime": "2:00 pm",
+        "endTime": "5:00  pm",
+        "shift": "Afternoon",
+        "address": {
+            "village": "Darel",
+            "city": "Diamer",
+            "union": "Darel",
+            "tehsil": "Darel",
+            "district": "Diamer",
+            "province": "Gilgit Baltistan",
+            "address": "Villlage Manikal Darel, Post Office Gumari ,Sabu Coat Tehsil Darel",
+            "latitude": 35.688832,
+            "longitude": 73.624756
+        },
+        "hasProjector": false,
+        "hasLaptop": false,
+        "hasTablet": false,
+        "hasInternet": false,
+        "hasElectricity": false,
+        "hasSolor": false,
+        "organization": {
+            "name": "takmil"
+        }
+    },
+    {
+        "name": "Shaheed Sardar Mazhar TAKMIL School",
+        "status": "New",
+        "startTime": "8:15am",
+        "endTime": "12:30 pm",
+        "shift": "Morning",
+        "address": {
+            "village": "Puchguch",
+            "city": "Diamer",
+            "union": "Darel",
+            "tehsil": "Darel",
+            "district": "Diamer",
+            "province": "Gilgit Baltistan",
+            "address": "Village Puchguch , Tehsil Darel , District Diamer",
+            "latitude": 35.60792,
+            "longitude": 73.582386
+        },
+        "hasProjector": false,
+        "hasLaptop": false,
+        "hasTablet": false,
+        "hasInternet": true,
+        "hasElectricity": false,
+        "hasSolor": false,
+        "organization": {
+            "name": "takmil"
+        }
+    },
+    {
+        "name": "Shaheed Shahzeb School-A",
+        "status": "old",
+        "startTime": "7:00am",
+        "endTime": "10:30am",
+        "shift": "Morning",
+        "address": {
+            "village": "Sanjarpur",
+            "city": "Sadiqabad",
+            "union": "Kot Sabzal",
+            "tehsil": "Kot Sabzal",
+            "district": "Sadiqabad",
+            "province": "Punjab",
+            "address": "Shahzeb School Baypass Road ,Sanjarpur Sadiqabad",
+            "latitude": 28.239555555555558,
+            "longitude": 69.94694444444445
+        },
+        "hasProjector": true,
+        "hasLaptop": true,
+        "hasTablet": false,
+        "hasInternet": false,
+        "hasElectricity": false,
+        "hasSolor": true,
+        "organization": {
+            "name": "takmil"
+        }
+    },
+    {
+        "name": "Shaheed Shahzeb School-B",
+        "status": "old",
+        "startTime": "7:00am",
+        "endTime": "10:30am",
+        "shift": "Morning",
+        "address": {
+            "village": "Sanjarpur",
+            "city": "Sadiqabad",
+            "union": "Kot Sabzal",
+            "tehsil": "Kot Sabzal",
+            "district": "Sadiqabad",
+            "province": "Punjab",
+            "address": "Shahzeb School Baypass Road ,Sanjarpur Sadiqabad",
+            "latitude": 28.239555555555558,
+            "longitude": 69.94694444444445
+        },
+        "hasProjector": true,
+        "hasLaptop": true,
+        "hasTablet": false,
+        "hasInternet": false,
+        "hasElectricity": false,
+        "hasSolor": true,
+        "organization": {
+            "name": "takmil"
+        }
+    },
+    {
+        "name": "Shaheed Sher Nawaz School",
+        "status": "old",
+        "startTime": "3:00pm",
+        "endTime": "6:30pm",
+        "shift": "Evening",
+        "address": {
+            "village": "Ahmedwala",
+            "city": "Ahmedwala",
+            "union": "Jhang",
+            "tehsil": "Jhang",
+            "district": "Jhang",
+            "province": "Punjab",
+            "address": "P/o Chund Bhrwana Chak syedan wala Basti, Hussaina abad Mumtaz kriana store,Jhang",
+            "latitude": 31.46361111111111,
+            "longitude": 72.24111111111111
+        },
+        "hasProjector": false,
+        "hasLaptop": false,
+        "hasTablet": false,
+        "hasInternet": true,
+        "hasElectricity": false,
+        "hasSolor": false,
+        "organization": {
+            "name": "takmil"
+        }
+    },
+    {
+        "name": "Shaheed Tanveer Hussain TAKMIL School",
+        "status": "New",
+        "startTime": "8:15am",
+        "endTime": "12:30 pm",
+        "shift": "Morning",
+        "address": {
+            "village": "Puchguch",
+            "city": "Diamer",
+            "union": "Darel",
+            "tehsil": "Darel",
+            "district": "Diamer",
+            "province": "Gilgit Baltistan",
+            "address": "Village Puchguch , Tehsil Darel , District Diamer",
+            "latitude": 35.60792,
+            "longitude": 73.582386
+        },
+        "hasProjector": false,
+        "hasLaptop": false,
+        "hasTablet": false,
+        "hasInternet": true,
+        "hasElectricity": false,
+        "hasSolor": false,
+        "organization": {
+            "name": "takmil"
+        }
+    },
+    {
+        "name": "Shaheed Umar Hayat School-A",
+        "status": "old",
+        "startTime": "2:00pm",
+        "endTime": "5:30pm",
+        "shift": "Afternoon",
+        "address": {
+            "village": "Hayat Shah",
+            "city": "Mirpur khas",
+            "union": "Makhan Samon",
+            "tehsil": "Makhan Samon",
+            "district": "Mirpur khas",
+            "province": "Sindh",
+            "address": "Village Hayat Shah, MirPur Khas, Sindh",
+            "latitude": 25.397972222222222,
+            "longitude": 68.98086111111111
+        },
+        "hasProjector": true,
+        "hasLaptop": true,
+        "hasTablet": true,
+        "hasInternet": true,
+        "hasElectricity": false,
+        "hasSolor": true,
+        "organization": {
+            "name": "takmil"
+        }
+    },
+    {
+        "name": "Shaheed Umar Hayat School-B",
+        "status": "old",
+        "startTime": "2:00pm",
+        "endTime": "5:30pm",
+        "shift": "Afternoon",
+        "address": {
+            "village": "Hayat Shah",
+            "city": "Mirpur khas",
+            "union": "Makhan Samon",
+            "tehsil": "Makhan Samon",
+            "district": "Mirpur khas",
+            "province": "Sindh",
+            "address": "Village Hayat Shah, MirPur Khas, Sindh",
+            "latitude": 25.397972222222222,
+            "longitude": 68.98086111111111
+        },
+        "hasProjector": true,
+        "hasLaptop": true,
+        "hasTablet": true,
+        "hasInternet": true,
+        "hasElectricity": false,
+        "hasSolor": true,
+        "organization": {
+            "name": "takmil"
+        }
+    },
+    {
+        "name": "Shaheed Wahab ud Din School",
+        "status": "New",
+        "startTime": "2:00 pm",
+        "endTime": "5:00 pm",
+        "shift": "Afternoon",
+        "address": {
+            "village": "Ghummary",
+            "city": "Darel",
+            "union": "Ghummary",
+            "tehsil": "Ghummary",
+            "district": "Diamer",
+            "province": "Gilgit Baltistan",
+            "address": "Village Jadury ,Post office Ghummary,Tehsil darel",
+            "latitude": 35.780252,
+            "longitude": 73.677096
+        },
+        "hasProjector": false,
+        "hasLaptop": false,
+        "hasTablet": false,
+        "hasInternet": false,
+        "hasElectricity": false,
+        "hasSolor": false,
+        "organization": {
+            "name": "takmil"
+        }
+    },
+    {
+        "name": "Shaheed Wasif Ali Khattak School",
+        "status": "New",
+        "startTime": "9:00 am",
+        "endTime": "11:00 am",
+        "shift": "Morning",
+        "address": {
+            "village": "Killi Mullah Muhammad Gul Gorgaij",
+            "city": "Dalbandin",
+            "union": "Dalbandin",
+            "tehsil": "Dalbandin",
+            "district": "Chagai",
+            "province": "Balochistan",
+            "address": "Killi Mullah Muhammad Gul Gorgaij, Chagai, Baluchistan",
+            "latitude": 29.054097,
+            "longitude": 63.959999
+        },
+        "hasProjector": false,
+        "hasLaptop": false,
+        "hasTablet": false,
+        "hasInternet": false,
+        "hasElectricity": false,
+        "hasSolor": false,
+        "organization": {
+            "name": "takmil"
+        }
+    },
+    {
+        "name": "Shaheed Yasirullah School",
+        "status": "New",
+        "startTime": "7:30am",
+        "endTime": "11:00 am",
+        "shift": "Morning",
+        "address": {
+            "village": "Killi Haji Khalifa Muhammad Hayat",
+            "city": "Dalbandin",
+            "union": "Dalbandin",
+            "tehsil": "Dalbandin",
+            "district": "Chagai",
+            "province": "Balochistan",
+            "address": "Village Ghat -E-Hamoon, Yakmuch ,Dalbandin",
+            "latitude": 29.049525,
+            "longitude": 64.013836
+        },
+        "hasProjector": false,
+        "hasLaptop": false,
+        "hasTablet": false,
+        "hasInternet": false,
+        "hasElectricity": false,
+        "hasSolor": false,
+        "organization": {
+            "name": "takmil"
+        }
+    },
+    {
+        "name": "Shaheed Zargham Abbas School-A",
+        "status": "old",
+        "startTime": "7:30am",
+        "endTime": "12:30pm",
+        "shift": "Morning",
+        "address": {
+            "village": "Nanak Pur",
+            "city": "Khanewal",
+            "union": "Bhatta Zafar Ullah",
+            "tehsil": "Bhatta Zafar Ullah",
+            "district": "Khanewal",
+            "province": "Punjab",
+            "address": "Zargam Abbas School Shamkot Road ,Bhatta Zafar ullah ,Tehsil khanewal",
+            "latitude": 30.169472222222222,
+            "longitude": 71.84533333333333
+        },
+        "hasProjector": true,
+        "hasLaptop": true,
+        "hasTablet": true,
+        "hasInternet": true,
+        "hasElectricity": true,
+        "hasSolor": false,
+        "organization": {
+            "name": "takmil"
+        }
+    },
+    {
+        "name": "Shaheed Zargham Abbas School-B",
+        "status": "old",
+        "startTime": "7:30am",
+        "endTime": "12:30pm",
+        "shift": "Morning",
+        "address": {
+            "village": "Nanak Pur",
+            "city": "Khanewal",
+            "union": "Bhatta Zafar Ullah",
+            "tehsil": "Bhatta Zafar Ullah",
+            "district": "Khanewal",
+            "province": "Punjab",
+            "address": "Zargam Abbas School Shamkot Road ,Bhatta Zafar ullah ,Tehsil khanewal",
+            "latitude": 30.169472222222222,
+            "longitude": 71.84533333333333
+        },
+        "hasProjector": true,
+        "hasLaptop": true,
+        "hasTablet": true,
+        "hasInternet": true,
+        "hasElectricity": true,
+        "hasSolor": false,
+        "organization": {
+            "name": "takmil"
+        }
+    },
+    {
+        "name": "Shaheeda Tahira Qazi School(Female)- A",
+        "status": "old",
+        "startTime": "2:00pm",
+        "endTime": "5:00pm",
+        "shift": "Afternoon",
+        "address": {
+            "village": "kalanga aka khel",
+            "city": "Bara",
+            "union": "Bara",
+            "tehsil": "Bara",
+            "district": "Khyber Agency",
+            "province": "KPK",
+            "address": "Malik deen khel, pashta khel muhalla touheedabad kalanga aka khel, daak khana Bara, meerah, tehsil bara, District Khyber Agency",
+            "latitude": 33.90083333333333,
+            "longitude": 71.45372222222223
+        },
+        "hasProjector": true,
+        "hasLaptop": false,
+        "hasTablet": false,
+        "hasInternet": true,
+        "hasElectricity": false,
+        "hasSolor": false,
+        "organization": {
+            "name": "takmil"
+        }
+    },
+    {
+        "name": "Shaheeda Tahira Qazi School(Female)-B",
+        "status": "old",
+        "startTime": "2:00pm",
+        "endTime": "5:00pm",
+        "shift": "Afternoon",
+        "address": {
+            "village": "kalanga aka khel",
+            "city": "Bara",
+            "union": "Bara",
+            "tehsil": "Bara",
+            "district": "Khyber Agency",
+            "province": "KPK",
+            "address": "Malik deen khel, pashta khel muhalla touheedabad kalanga aka khel, daak khana Bara, meerah, tehsil bara, District Khyber Agency",
+            "latitude": 33.90083333333333,
+            "longitude": 71.45372222222223
+        },
+        "hasProjector": true,
+        "hasLaptop": false,
+        "hasTablet": false,
+        "hasInternet": true,
+        "hasElectricity": false,
+        "hasSolor": false,
+        "organization": {
+            "name": "takmil"
+        }
+    },
+    {
+        "name": "Zubaida Rafiq TAKMIL School",
+        "status": "New",
+        "startTime": "8:15 am",
+        "endTime": "12:30 pm",
+        "shift": "Morning",
+        "address": {
+            "village": "Mewo Khan Mehar",
+            "city": "Mirpur khas",
+            "union": "Hussain Bux Mari",
+            "tehsil": "Hussain Bux Mari",
+            "district": "Mirpur khas",
+            "province": "Sindh",
+            "address": "Taluka Hussain Bux, Village Punni Khan Mehar Post Office",
+            "latitude": 25.599722222222223,
+            "longitude": 68.95772222222223
+        },
+        "hasProjector": false,
+        "hasLaptop": false,
+        "hasTablet": false,
+        "hasInternet": true,
+        "hasElectricity": false,
+        "hasSolor": false,
+        "organization": {
+            "name": "takmil"
+        }
+    },
+    {
+        "name": "Zuha Rafiq TAKMIL School",
+        "status": "New",
+        "startTime": "4:30 pm",
+        "endTime": "7:30 pm",
+        "shift": "Evening",
+        "address": {
+            "village": "Niamjo",
+            "city": "Khuzdar",
+            "union": "Lizo",
+            "tehsil": "Lizo",
+            "district": "Khuzdar",
+            "province": "Balochistan",
+            "address": "Village Niamjo ,City Khuzdar , Balochistan",
+            "latitude": 27.797957,
+            "longitude": 66.626762
+        },
+        "hasProjector": false,
+        "hasLaptop": false,
+        "hasTablet": false,
+        "hasInternet": true,
+        "hasElectricity": false,
+        "hasSolor": false,
+        "organization": {
+            "name": "takmil"
+        }
+    },
+    {
+        "name": "Saifuddin and Rabab Munis Memorial TAKMIL School",
+        "status": "New",
+        "startTime": "2:00 pm",
+        "endTime": "05:00 pm",
+        "shift": "Evening",
+        "address": {
+            "village": "Badhber",
+            "city": "peshawar",
+            "union": "Masho Gagar",
+            "tehsil": "Bara",
+            "district": "Kyber",
+            "province": "KPK",
+            "address": "Postal address:- District Khyber  Bara Main Bazar TMA Post office",
+            "latitude": 33.8467505,
+            "longitude": 71.5258231
+        },
+        "hasProjector": false,
+        "hasLaptop": false,
+        "hasTablet": false,
+        "hasInternet": true,
+        "hasElectricity": true,
+        "hasSolor": false,
+        "organization": {
+            "name": "takmil"
+        }
+    },
+    {
+        "name": "Shaheed Usama Bin Tariq TAKMIL School",
+        "status": "New",
+        "startTime": "03:15 pm",
+        "endTime": "06:00pm",
+        "shift": "Evening",
+        "address": {
+            "village": "Jalandar klay\u2013 (famous as Bilal market)",
+            "city": "peshawar",
+            "union": "Molana qasil\u00a0 (bara tehsil)",
+            "tehsil": "Bara",
+            "district": "Kyber",
+            "province": "KPK",
+            "address": "District khyber Bara Bazar main chowk opposite Nadra office Gul Plaza Ground floor Gul travel agency and Photostate shop no 10",
+            "latitude": 33.87694444444445,
+            "longitude": 71.50377777777778
+        },
+        "hasProjector": false,
+        "hasLaptop": false,
+        "hasTablet": false,
+        "hasInternet": false,
+        "hasElectricity": false,
+        "hasSolor": false,
+        "organization": {
+            "name": "takmil"
+        }
+    },
+    {
+        "name": "Rehmat-O-Noor Memorial TAKMIL School",
+        "status": "New",
+        "startTime": "07:00am",
+        "endTime": "11:00 am",
+        "shift": "Morning",
+        "address": {
+            "village": "Soonkhura",
+            "city": "khura",
+            "union": "Khura",
+            "tehsil": "Noshara",
+            "district": "Khushab",
+            "province": "Punjab",
+            "address": "\u0688\u06cc\u0631\u06c1 \u0633\u0631\u0627\u0628 \u06a9\u06be\u0648\u0691\u06c1 \u062a\u062d\u0635\u06cc\u0644 \u0646\u0648\u0634\u06c1\u0631\u06c1 \u0648\u0627\u062f\u06cc \u0633\u0648\u0646 \u0636\u0644\u0639 \u062e\u0648\u0634\u0627\u0628",
+            "latitude": 32.507656,
+            "longitude": 72.232244
+        },
+        "hasProjector": true,
+        "hasLaptop": false,
+        "hasTablet": false,
+        "hasInternet": true,
+        "hasElectricity": true,
+        "hasSolor": false,
+        "organization": {
+            "name": "takmil"
+        }
+    },
+    {
+        "name": "Shaheed Muhammad Saeed TAKMIL School",
+        "status": "New",
+        "startTime": "01:00 pm",
+        "endTime": "03:00pm",
+        "shift": "Evening",
+        "address": {
+            "village": "Killi Thaki",
+            "city": "Zhob",
+            "union": "Thaki",
+            "tehsil": "Zhob",
+            "district": "Zhob",
+            "province": "Balochistan",
+            "address": "\u0688\u0633\u0679\u0631\u06a9\u0679 \u0632\u0648\u0628 \u0628\u0644\u0648\u0686\u0633\u062a\u0627\u0646 \u06a9\u0644\u06cc \u062a\u06a9\u06cc \u0646\u0645\u0628\u06311 \u0644\u0648 \u0645\u06cc\u0646\u06c1."
+        },
+        "hasProjector": false,
+        "hasLaptop": false,
+        "hasTablet": false,
+        "hasInternet": false,
+        "hasElectricity": false,
+        "hasSolor": false,
+        "organization": {
+            "name": "takmil"
+        }
+    },
+    {
+        "name": "Hakimuddin and Asma Munis TAKMIL School",
+        "status": "New",
+        "startTime": "07:00am",
+        "endTime": "11:00 am",
+        "shift": "Morning",
+        "address": {
+            "village": "Basti Noor Muhammad Musani",
+            "city": "Jamal Din Walli",
+            "union": "Basti Noor Muhammad Musani",
+            "tehsil": "Sadiqabad",
+            "district": "Rahim yar khan",
+            "province": "Punjab",
+            "address": "PO/Box Jamal Din Wali Tehsil Sadiqabad District Rahimyar khan",
+            "latitude": 28.529916666666665,
+            "longitude": 70.01794444444444
+        },
+        "hasProjector": false,
+        "hasLaptop": false,
+        "hasTablet": false,
+        "hasInternet": true,
+        "hasElectricity": true,
+        "hasSolor": false,
+        "organization": {
+            "name": "takmil"
+        }
+    },
+    {
+        "name": "Shaheed Sadiq Ullah TAKMIL School",
+        "status": "New",
+        "startTime": "09:30 am",
+        "endTime": "11:00am",
+        "shift": "Morning",
+        "address": {
+            "village": "Killi Ismaili Muhammad gul",
+            "city": "Killi ismaili",
+            "union": "Yakmach",
+            "tehsil": "Dalbadeen",
+            "district": "Chaghi",
+            "province": "Balochistan",
+            "address": "\u06cc\u0635\u0644 \u0632\u0645\u0627\u0646 /\u062d\u0627\u0641\u0638 \u0622\u0679\u0648\u0632 \u0646\u0632\u062f \u0627\u06cc\u0641 \u0633\u06cc \u0627\u0633\u06a9\u06481 \u062f\u0627\u0644\u0628\u0646\u062f\u06cc\u0646 \u0636\u0644\u0639 \u0686\u0627\u063a\u06cc \u0628\u0644\u0648\u0686\u0633\u062a\u0627\u0646",
+            "latitude": 28.800472222222222,
+            "longitude": 63.983222222222224
+        },
+        "hasProjector": false,
+        "hasLaptop": false,
+        "hasTablet": false,
+        "hasInternet": "Yes(Weak)",
+        "hasElectricity": false,
+        "hasSolor": false,
+        "organization": {
+            "name": "takmil"
+        }
+    },
+    {
+        "name": "Shaheed Wasim TAKMIL School",
+        "status": "New",
+        "startTime": "09:00 am",
+        "endTime": "12:00 pm",
+        "shift": "Morning",
+        "address": {
+            "village": "Killi Noor Muhammad Notezai",
+            "city": "Pate Gwanko",
+            "union": "Yakmach",
+            "tehsil": "Dalbadeen",
+            "district": "Chaghi",
+            "province": "Balochistan",
+            "address": "\u06cc\u0635\u0644 \u0632\u0645\u0627\u0646 /\u062d\u0627\u0641\u0638 \u0622\u0679\u0648\u0632 \u0646\u0632\u062f \u0627\u06cc\u0641 \u0633\u06cc \u0627\u0633\u06a9\u06481 \u062f\u0627\u0644\u0628\u0646\u062f\u06cc\u0646 \u0636\u0644\u0639 \u0686\u0627\u063a\u06cc \u0628\u0644\u0648\u0686\u0633\u062a\u0627\u0646"
+        },
+        "hasProjector": false,
+        "hasLaptop": false,
+        "hasTablet": false,
+        "hasInternet": "Yes(Weak)",
+        "hasElectricity": false,
+        "hasSolor": false,
+        "organization": {
+            "name": "takmil"
+        }
+    },
+    {
+        "name": "Shaheed Omer Khan TAKMIL School",
+        "status": "New",
+        "startTime": "09:00 am",
+        "endTime": "12:00 pm",
+        "shift": "Morning",
+        "address": {
+            "village": "Abdul Rehman Mallah",
+            "city": "Sahwan Shreef",
+            "union": "Bajara",
+            "tehsil": "Sahwan Shreef",
+            "district": "Jamshoro",
+            "province": "Sindh",
+            "address": "Zahid Hussain Bhutto. Bhutto Muhalla Sehwan Talaka Sehwan Sharif District. Jamshoro. Sindh."
+        },
+        "hasProjector": false,
+        "hasLaptop": false,
+        "hasTablet": false,
+        "hasInternet": true,
+        "hasElectricity": false,
+        "hasSolor": false,
+        "organization": {
+            "name": "takmil"
+        }
+    }
+]

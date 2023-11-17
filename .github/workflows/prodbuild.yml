@@ -1,0 +1,44 @@
+name: Docker Build
+
+on:
+  push:
+    branches:
+      - main
+
+jobs:
+  build-and-deploy:
+    runs-on: [self-hosted, Linux, X64, takmilprod]
+
+    steps:
+      - name: Clean up old artifacts
+        run: |
+          sudo rm -rf dist
+          docker compose down -v
+          docker system prune -f
+        continue-on-error: true
+
+      - name: Checkout Repository
+        uses: actions/checkout@v3
+
+      - name: Setting up user permission
+        run: |
+          sudo chown -R $USER *
+        continue-on-error: true
+
+      - name: Docker compose build and run application
+        uses: isbang/compose-action@v1.5.1
+        with:
+          compose-file: "docker-compose-prod.yaml"
+          down-flags: "--volumes"
+          up-flags: "--build"
+
+      - name: Verify Deployment
+        run: |
+          response=$(curl -s -o /dev/null -w "%{http_code}" http://20.205.99.207:3001/)
+          if [ "$response" == "200" ]; then
+            echo "Application is running successfully."
+          else
+            echo "Application is not running or returned a non-200 status code."
+            exit 1
+          fi
+        continue-on-error: true

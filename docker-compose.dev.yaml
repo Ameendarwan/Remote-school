@@ -1,0 +1,120 @@
+version: '3'
+services:
+  # organization:
+  #   build:
+  #     context: .
+  #     dockerfile: ./apps/organization/Dockerfile
+  #     target: development
+  #   command: pnpm run start:dev organization
+  #   env_file:
+  #     - ./apps/organization/.env
+  #   ports:
+  #     - '3000:3000'
+  #   volumes:
+  #     - .:/usr/src/app
+  #     - /usr/src/app/node_modules
+  #   restart: unless-stopped
+  #   network_mode: app-network
+  #   depends_on:
+  #     - takmildb
+
+  # auth:
+  #   build:
+  #     context: .
+  #     dockerfile: ./apps/auth/Dockerfile
+  #     target: development
+  #   command: pnpm run start:dev auth
+  #   env_file:
+  #     - ./apps/auth/.env
+  #   environment:
+  #     - WATCHPACK_POLLING=true
+  #   ports:
+  #     - '3001:3001'
+  #   dns:
+  #     - 8.8.8.8
+  #   volumes:
+  #     - .:/usr/src/app
+  #     - /usr/src/app/node_modules
+  #   restart: unless-stopped
+  #   networks:
+  #     - app-network
+  #   depends_on:
+  #     - takmildb
+
+  # curriculum-builder:
+  #   build:
+  #     context: .
+  #     dockerfile: ./apps/curriculum-builder/Dockerfile
+  #     target: development
+  #   command: pnpm run start:dev curriculum-builder
+  #   env_file:
+  #     - ./apps/curriculum-builder/.env
+  #   ports:
+  #     - '3002:3002'
+  #   volumes:
+  #     - .:/usr/src/app
+  #     - /usr/src/app/node_modules
+  #   restart: unless-stopped
+  #   network_mode: app-network
+  #   depends_on:
+  #     - takmildb
+
+  school:
+    build:
+      context: .
+      dockerfile: ./apps/school/Dockerfile
+      target: development
+    command: pnpm run start:dev school
+    env_file:
+      - ./apps/school/.env
+    ports:
+      - '3003:3003'
+    dns:
+      - 8.8.8.8
+    volumes:
+      - .:/usr/src/app
+      - /usr/src/app/node_modules
+    restart: unless-stopped
+    networks:
+      - app-network
+    depends_on:
+      - takmildb
+
+  # attendence:
+  #   build:
+  #     context: .
+  #     dockerfile: ./apps/attendence/Dockerfile
+  #     target: development
+  #   command: pnpm run start:dev attendence
+  #   env_file:
+  #     - ./apps/attendence/.env
+  #   ports:
+  #     - '3004:3004'
+  #   volumes:
+  #     - .:/usr/src/app
+  #     - /usr/src/app/node_modules
+  #   restart: unless-stopped
+  #   network_mode: app-network
+  #   depends_on:
+  #     - takmildb
+
+  takmildb:
+    container_name: takmildb
+    hostname: takmildb
+    image: mongo
+    ports:
+      - '27017:27017'
+    restart: always
+    networks:
+      - app-network
+    volumes:
+      - dbdata:/data/db
+    command: mongod --bind_ip_all
+
+networks:
+  app-network:
+    name: app-network
+    driver: bridge
+
+volumes:
+  dbdata:

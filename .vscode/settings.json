@@ -1,0 +1,17 @@
+{
+  "conventionalCommits.scopes": [
+    "work-in-progress",
+    "huge",
+    "time-waste-fix",
+    "critical"
+  ],
+  "editor.formatOnSave": true,
+  "editor.codeActionsOnSave": {
+    "source.organizeImports": true,
+    "source.fixAll.eslint": true
+  },
+  "eslint.validate": [
+    "javascript",
+    "typescript"
+],
+}

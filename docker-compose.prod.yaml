@@ -1,0 +1,40 @@
+version: '3'
+services:
+  auth:
+    build:
+      context: .
+      dockerfile: ./path-to-your-Dockerfile  # Specify the path to your Dockerfile
+      target: production  # Specify the target stage for production
+    ports:
+      - '3001:3001'  # Adjust the port mapping as needed
+    command: npm run start:prod  # Change to the actual start command for production
+    environment:
+      NODE_ENV: production
+    volumes:
+      - .:/usr/src/app  # Adjust the volume path as needed
+    restart: unless-stopped
+    networks:
+      - app-network
+    depends_on:
+      - takmildb
+
+  takmildb:
+    container_name: takmildb
+    hostname: takmildb
+    image: mongo
+    ports:
+      - '27017:27017'
+    restart: always
+    networks:
+      - app-network
+    volumes:
+      - dbdata:/data/db
+    command: mongod --bind_ip_all
+
+networks:
+  app-network:
+    name: app-network
+    driver: bridge
+
+volumes:
+  dbdata:
